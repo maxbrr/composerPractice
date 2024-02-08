@@ -1,0 +1,12 @@
+{
+    "name": "cprac/cprac",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Cprac\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dotenv": "^7.0"
+    }
+}
